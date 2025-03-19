@@ -1,18 +1,19 @@
-Welcome Dosto....
-NON-DRM bot made by @nikhil.saini.khe (TELEGRAM & Instagram)
+<p align="center">
+  <img src="" alt="🇮🇳ᗅოꪖꫛ🇮🇳">
+</p>
+<h1 align="center">
+  
+</h1>
 
-#command
-```
-/start start the bot
-/stop stop the bot
-/logs to see bot logs
-/cookies to update YouTube cookies
-Direct send link
-```
+## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
+
+## Credit - Nikhil Saini
+
+<b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 Direct Deploy via click these button 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nikhilsaini098/Saini-txt-direct)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shadow4546/TXT_Leech_Updated)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/nikhilsaini098/Saini-txt-direct)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=[https://github.com/Shadow4546/TXT_Leech_Updated]
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=saini-txt-direct&repository=nikhilsaini098%2FSaini-txt-direct&branch=main&instance_type=free&instances_min=0)
