@@ -133,8 +133,8 @@ Busy = InlineKeyboardMarkup(
 
 # Image URLs for the random image feature
 image_urls = [
-    "https://tinypic.host/images/2025/02/07/IMG_20250207_224444_975.jpg",
-    "https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcpI0KnMBl2ZrXEFsIcuaax1fbbpAXK5zHAi76gwBA-H6KeoIPcUy3eQV&s=10",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcpI0KnMBl2ZrXEFsIcuaax1fbbpAXK5zHAi76gwBA-H6KeoIPcUy3eQV&s=10",
     # Add more image URLs as needed
 ]
 
